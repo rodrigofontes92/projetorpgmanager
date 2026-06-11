@@ -1,51 +1,51 @@
 # RPG Manager
 
-RPG Manager é uma aplicação desenvolvida em Java com o objetivo de gerir personagens, campanhas e elementos de jogos de RPG de forma organizada e estruturada.
+RPG Manager is a Java application designed to manage characters, campaigns, and RPG game elements in an organized and structured way.
 
-O projeto foca-se na aplicação prática de conceitos de programação orientada a objetos, sendo ideal tanto para aprendizagem quanto para evolução futura para sistemas mais complexos.
-
----
-
-## Objetivo
-
-Permitir a gestão completa de entidades de um sistema de RPG, como personagens, atributos, inventário e campanhas, de forma simples e extensível.
+The project focuses on the practical application of object-oriented programming concepts, making it suitable both for learning purposes and for future evolution into more complex systems.
 
 ---
 
-## Tecnologias Utilizadas
+## Objective
+
+Provide complete management of RPG system entities, such as characters, attributes, inventory, and campaigns, in a simple and extensible way.
+
+---
+
+## Technologies Used
 
 * Java
-* Programação Orientada a Objetos (POO)
-* Estruturas de Dados
+* Object-Oriented Programming (OOP)
+* Data Structures
 * NetBeans (Java with Ant)
 
 ---
 
-## Funcionalidades
+## Features
 
-* Criação e gestão de personagens
-* Sistema de atributos (força, vida, experiência, etc.)
-* Inventário de itens
-* Gestão de campanhas ou cenários
-* Estrutura base para sistema de combate
-* Organização de dados em memória (ou persistência simples)
-
----
-
-## Arquitetura
-
-O projeto segue princípios de:
-
-* Encapsulamento
-* Herança
-* Polimorfismo
-* Separação de responsabilidades por classes
+* Character creation and management
+* Attribute system (strength, health, experience, etc.)
+* Item inventory management
+* Campaign and scenario management
+* Foundation for a combat system
+* In-memory data organization (or simple persistence)
 
 ---
 
-## Estrutura do Projeto
+## Architecture
 
-```bash
+The project follows key software engineering principles, including:
+
+* Encapsulation
+* Inheritance
+* Polymorphism
+* Separation of responsibilities through classes
+
+---
+
+## Project Structure
+
+```text
 src/
 ├── model/
 ├── service/
@@ -55,30 +55,31 @@ src/
 
 ---
 
-## Como Executar
+## Getting Started
 
-1. Abrir o projeto no NetBeans
-2. Compilar o projeto
-3. Executar a classe principal
-
----
-
-## Possíveis Melhorias
-
-* Interface gráfica JavaFX
-* Sistema de combate completo
-* Sistema de níveis e progressão
-* Exportação/importação de personagens
+1. Open the project in NetBeans
+2. Build the project
+3. Run the main class
 
 ---
 
-## Autor
+## Possible Improvements
+
+* JavaFX graphical user interface
+* Complete combat system
+* Leveling and progression system
+* Character export/import functionality
+
+---
+
+## Author
 
 Rodrigo Fontes
-Desenvolvedor de Software | Especialista em Marketing Digital
+
+Software Developer | Digital Marketing Specialist
 
 ---
 
-## Licença
+## License
 
-Projeto desenvolvido para fins educacionais.
+This project was developed for educational purposes.
